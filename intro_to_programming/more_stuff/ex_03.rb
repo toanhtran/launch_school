@@ -1,0 +1,1 @@
+# Exception handling helps with errors without completely exiting your program.
